@@ -1,6 +1,8 @@
-Nightlurker — Gizlilik Politikası / Privacy Policy Son güncelleme / Last updated: 10 Kasım 2026 / 10 November 2026 · Geliştirici / Developer: Emir Çakmak · İletişim / Contact: emircakmak55@gmail.com
+Nightlurker — Gizlilik Politikası / Privacy Policy
+Son güncelleme / Last updated: 10 Kasım 2026 / 10 November 2026 · Geliştirici / Developer: Emir Çakmak · İletişim / Contact: emircakmak55@gmail.com
 
-Türkçe Nightlurker ("oyun"), Emir Çakmak tarafından geliştirilen tek oyunculu bir mobil oyundur. Bu politika, oyunun hangi verileri işlediğini açıklar.
+Türkçe
+Nightlurker ("oyun"), Emir Çakmak tarafından geliştirilen tek oyunculu bir mobil oyundur. Bu politika, oyunun hangi verileri işlediğini açıklar.
 
 Hesap ve kişisel bilgi. Oyun hesap oluşturmanızı istemez. Adınızı, e-posta adresinizi, telefon numaranızı, hassas konumunuzu, rehberinizi, fotoğraflarınızı veya kameranızı/mikrofonunuzu istemez ve bunlara erişmez.
 
@@ -18,13 +20,18 @@ Analitik. Oyunda, yukarıda belirtilen Google AdMob ve Unity dışında üçünc
 
 İnternet izni. İnternet bağlantısı reklamları yüklemek ve göstermek ile Google Play satın alma hizmetiyle iletişim için kullanılır. Oyun internetsiz de oynanabilir; bu durumda reklam gösterilmez.
 
+Veri güvenliği. Kişisel ve hassas verileri güvenli şekilde işleriz: oyun cihazınızdan yalnızca reklam ve satın alma için veri gönderir ve bu veriler Google'ın sunucularına her zaman şifreli bağlantı (HTTPS/TLS) üzerinden gider. Bizim sunucumuz yoktur; sizinle ilgili hiçbir veriyi kendi sistemlerimizde toplamaz, saklamaz, satmaz veya başkalarıyla paylaşmayız. Cihazdaki oyun verileri yalnızca oyunun kendi uygulama alanında durur; diğer uygulamalar bunlara erişemez. Erişim yalnızca uygulamanın çalışması için gereken izinlerle (internet) sınırlıdır.
+
+Veri saklama ve silme. Cihazdaki oyun verileri, oyunu silene veya uygulama verilerini temizleyene kadar saklanır. Google'ın topladığı reklam verilerinin saklama süresi Google'ın politikasına tabidir (https://policies.google.com/technologies/retention). Reklam kimliğinizi cihaz ayarlarından silebilirsiniz. Verilerinizle ilgili bir silme veya erişim talebi için emircakmak55@gmail.com adresine yazın; 30 gün içinde yanıtlarız ve gereken durumda talebinizi Google'a iletmeniz için yol gösteririz.
+
 Haklarınız. Bulunduğunuz ülkenin yasalarına göre (ör. KVKK, GDPR) verilerinize erişme, düzeltme veya silinmesini isteme hakkınız olabilir. Biz sizinle ilgili bir veri saklamadığımız için, reklam verileriyle ilgili talepleriniz Google tarafından karşılanır: https://policies.google.com/privacy. Sorularınız için bize yazabilirsiniz.
 
 Değişiklikler. Bu politikayı güncellersek yeni sürümü bu sayfada tarihiyle yayınlarız.
 
 İletişim. Sorularınız için: emircakmak55@gmail.com
 
-English Nightlurker ("the game") is a single-player mobile game developed by Emir Çakmak. This policy explains what data the game handles.
+English
+Nightlurker ("the game") is a single-player mobile game developed by Emir Çakmak. This policy explains what data the game handles.
 
 Accounts and personal information. The game does not ask you to create an account. It does not request or access your name, email address, phone number, precise location, contacts, photos, camera or microphone.
 
@@ -41,6 +48,10 @@ Analytics. Apart from Google AdMob and Unity described above, the game contains 
 Children. The game is designed for players aged 13 and over and is not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe your child has used the game and their data was processed, write to us: emircakmak55@gmail.com
 
 Internet permission. The internet connection is used to load and show ads and to talk to Google Play's billing service. The game can be played offline; no ads are shown then.
+
+Data security. We handle personal and sensitive data securely: the game sends data from your device only for ads and purchases, and that data always travels to Google's servers over an encrypted connection (HTTPS/TLS). We run no servers of our own; we do not collect, store, sell or share any data about you in our own systems. Game data on your device stays in the game's private app storage, which other apps cannot read. Access is limited to the permissions the game needs to work (internet).
+
+Data retention and deletion. Game data on your device is kept until you uninstall the game or clear its app data. Retention of ad data collected by Google follows Google's policy (https://policies.google.com/technologies/retention). You can delete your advertising ID in your device settings. For any deletion or access request about your data, write to emircakmak55@gmail.com; we reply within 30 days and, where needed, guide you to make the request to Google.
 
 Your rights. Depending on the laws where you live (e.g. GDPR), you may have the right to access, correct or delete your data. Since we store no data about you, requests about ad data are handled by Google: https://policies.google.com/privacy. You are welcome to write to us with any question.
 
